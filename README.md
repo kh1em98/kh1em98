@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khiem Nguyen
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning NodeJS, TypeScript, GraphQL, React
+- 👀 I’m interested in Backend and Devops
+- 🌱 I’m currently learning NodeJS, TypeScript, GraphQL
 - 📫 How to reach me : kh1em9800@gmail.com
 
 <!---
