@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khiem Nguyen
-- 👀 I’m interested in Full Stack, Backend web development
+- 👀 I’m interested in Full Stack, Backend Web Development
 - 🌱 I’m currently learning NodeJS, ReactJS, TypeScript
 - 📫 How to reach me : kh1em9800@gmail.com
 
