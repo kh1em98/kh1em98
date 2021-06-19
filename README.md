@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Khiem Nguyen
 - 👀 I’m interested in Full Stack, Backend Web Development
-- 🌱 My tech stack : 
-- React, Redux, Redux Toolkit, Chakra UI
-- NodeJS, Express
-- TypeScript
+- 🌱 My tech stack : React, TypeScript, NodeJS, PostgreSQL
 - 📫 How to reach me : kh1em9800@gmail.com
 
 <!---
