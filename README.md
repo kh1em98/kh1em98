@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khiem Nguyen
-- 👀 I’m interested in Full Stack, Backend Web Development
+- 👀 I’m interested in Backend, Blockchain, Cloud
 - 🌱 My tech stack : React, TypeScript, NodeJS, PostgreSQL
 - 📫 How to reach me : kh1em9800@gmail.com
 
