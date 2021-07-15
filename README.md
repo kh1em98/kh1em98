@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khiem Nguyen
-- 👀 I’m interested in Backend, Blockchain, Cloud
-- 🌱 My tech stack : React, TypeScript, NodeJS, PostgreSQL
+- 👀 I’m interested in Blockchain development
+- 🌱 My tech stack : Solidity, TypeScript, React
 - 📫 How to reach me : kh1em9800@gmail.com
 
 <!---
