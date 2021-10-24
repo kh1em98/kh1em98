@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khiem Nguyen
 - 👀 I’m interested in Blockchain development
-- 🌱 My tech stack : Solidity, TypeScript, React
+- 🌱 My tech stack : Solidity, Hardhat, TypeScript, React
 - 📫 How to reach me : kh1em9800@gmail.com
 
 <!---
