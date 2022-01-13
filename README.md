@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khiem Nguyen
 - 👋 Studying at HCMUS
 - 👀 I’m Blockchain Developer
-- 🌱 My tech stack : Solidity, Hardhat, TypeScript, React
+- 🌱 My tech stack : Solidity, Hardhat, TypeScript
 - 📫 How to reach me : khiem.na98@gmail.com
 
 <!---
