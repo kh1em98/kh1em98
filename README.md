@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khiem Nguyen
-- 👋 Studying at HCMUS
-- 👀 I’m Blockchain Developer
-- 🌱 My tech stack : Solidity, Hardhat, TypeScript
+- 👋 Graduated from HCMUS
+- 👀 I’m Backend Developer
+- 🌱 My tech stack : NestJS, MySQL, Prisma
 - 📫 How to reach me : khiem.na98@gmail.com
 
 <!---
